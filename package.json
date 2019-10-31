@@ -36,7 +36,7 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "lodash": "3.10.x",
+    "lodash": "4.17.x",
     "q": "1.4.x"
   },
   "deprecated": false,
